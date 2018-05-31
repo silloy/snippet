@@ -1,0 +1,10 @@
+/target/
+/.classpath
+/.project
+/bin/
+.idea/
+.idea/artifacts
+.idea/copyright
+.idea/libraries
+.idea/workspace.xml
+*.iml

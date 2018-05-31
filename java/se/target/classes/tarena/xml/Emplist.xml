@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <emp id="1">
+        <name>Smith</name>
+        <age>23</age>
+        <gender>Male</gender>
+        <salary>5000</salary>
+    </emp>
+    <emp id="2">
+        <name>David</name>
+        <age>34</age>
+        <gender>Female</gender>
+        <salary>2000</salary>
+    </emp>
+    <emp id="3">
+        <name>John</name>
+        <age>23</age>
+        <gender>Male</gender>
+        <salary>50000</salary>
+    </emp>
+    <emp id="4">
+        <name>Lily</name>
+        <age>18</age>
+        <gender>Female</gender>
+        <salary>6000</salary>
+    </emp>
+</list>
